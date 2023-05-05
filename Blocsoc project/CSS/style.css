@@ -236,11 +236,3 @@ footer .images{
     margin-top: 9px;
     display: flex;
 }
-@media only screen and (max-width:1100){
-    .line4{
-        font-size: 2.8rem;
-    }
-    .line1 .line2{
-        font-size: 2rem;
-    }
-}
